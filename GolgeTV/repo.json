@@ -1,0 +1,8 @@
+{
+    "name": "Golge-patr0n / KekikAkademiden Portlandı | @KekikAkademi",
+    "description": "Türkçe içerikli eklenti havuzu",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+    ]
+}
