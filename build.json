@@ -15,8 +15,8 @@
             "Live"
         ],
         "version": 3,
-        "internalName": "GolgeTV",
-        "description": "GolgeTV cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "internalName": "GolgeTV-Port",
+        "description": "KekikAkademi'den portlanmıştır",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/GolgeTV.cs3",
         "name": "GolgeTV"
         }
